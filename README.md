@@ -19,7 +19,7 @@ Instalação de Alguns Frameworks
   Antes de executar a API é necessário fazer a instalação pelo terminal das seguintes ferramentas:
 
     Express: 
-    yarn add Express
+    yarn add express
 
     Sequelize cli
     yarn add sequelize-cli -D 
